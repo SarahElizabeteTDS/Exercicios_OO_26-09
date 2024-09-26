@@ -1,5 +1,7 @@
 <?php
 
+require_once("modelos/Departamento.php");
+
 class Funcionario
 {
     private string $nome;
